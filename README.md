@@ -5,7 +5,7 @@
 <br>⋅▸ Currently : CS Student at Kasetsart u.</br>
 <br>⋅▸ Dev : 1liner.</br>
 <br>⋅▸ 🧠 : I'm learning C++, Python, HTML, CSS, PHP, JS, React, NextUi Framework,</br>
-<br>⋅▸ 🤝 : I'm open to collaborating on Safehouse Stack Project.</br>
+<br>⋅▸ 🤝 : I'm open to collaborating on 1liner Project.</br>
 
 
 </br><a href="mailto:worrapon453@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
